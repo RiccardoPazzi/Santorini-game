@@ -17,6 +17,6 @@ Coverage informations:
 - Controller 78,9% line coverage
 
 Notes for the execution:
-In the Deliverables folder there's Client-Client.jar and Server-Server.jar 
+The executables are Client-Client.jar and Server-Server.jar 
 It's possible to run them both just by double clicking but to see what is happening on the server-side of the application 
 it's recommended to run the server jar using the command line (debug messages will be shown).  
