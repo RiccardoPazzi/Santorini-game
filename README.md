@@ -1,4 +1,4 @@
-# SW_Eng_Final_Project
+# Santorini board game implementation
 Final project for software engineering 1 @ Politecnico di Milano
 
 Academical Year:2019/2020
